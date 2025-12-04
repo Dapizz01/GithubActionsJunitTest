@@ -5,6 +5,7 @@ public class Stack {
     private final int[] storage;
     private int position;
 
+    // This is a useful comment
     public Stack(){
         storage = new int[1024];
         position=0;
