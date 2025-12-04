@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="it.univr.util.StackTester" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-12-04T19:22:10" hostname="MacBook-Air-M1.fritz.box" time="0.002">
+  <properties/>
+  <testcase name="testEmptyStack" classname="it.univr.util.StackTester" time="0.001"/>
+  <testcase name="testPushEmpty" classname="it.univr.util.StackTester" time="0.0"/>
+  <testcase name="testPopEmpty" classname="it.univr.util.StackTester" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
